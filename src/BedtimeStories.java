@@ -30,7 +30,7 @@ Enter the name of a story (e.g.
         } catch (IOException e) {
 // display stack trace if there was an error
             System.out.println("Invalid Input!");
+         }
     }
-}
 
-        }
+}
